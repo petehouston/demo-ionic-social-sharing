@@ -12,4 +12,6 @@ $ git clone https://github.com/petehouston/demo-ionic-social-share
 $ cd demo-ionic-social-share
 
 $ bower install
+
+$ ionic state restore
 ```
